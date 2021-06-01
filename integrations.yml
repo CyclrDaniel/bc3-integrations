@@ -167,3 +167,9 @@
   website: "http://pmdn.co/bc3"
   icon: "pomodoneapp.png"
   category: 2
+-
+  name: "Cyclr"
+  description: "Integrate your application with Basecamp using a low-code integration toolkit"
+  website: "https://cyclr.com/integrate/basecamp?utm_source=basecamp&utm_medium=integration-pages"
+  icon: "cyclr.png"
+  category: 9
